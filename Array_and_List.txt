@@ -1,0 +1,16 @@
+1.Difference between static member and not static member?
+2.Difference between class member and instance member?
+3.Difference between Array and List?
+4.List is Generic type?
+5.List is non Premetive type?
+6.Array & List Methods and Property?
+7.IEnumerable -> Array, List
+8.List Methods -> Add(),AddRange(),IndexOf()[Method OvweLoading],LastIndexOf(),Remove(),Clear()
+9.List Property -> Count,
+10.We Cannot modify collection in foreach loop -> remove element from list.
+11.We Can modify collection in for loop -> remove element from list by indexing.
+12.Single dimensional array, multidimntional array.
+13.Multidimentional Array - > Rectangular Array, Jagged Array
+14.Array has fixed size and list has dynamic size. we use list 99.9% of our daily life.
+
+                                                                                          

@@ -1,0 +1,17 @@
+1.string is a class,immutable
+2.var fullName = "Soumyajit Das"
+3.String instance Methods :-
+obj.Trim(),obj.ToUpper(),obj.IndexOf(),obj.Substring(),obj.Split()[convert string to string array]
+obj.Replace(),
+4.String static Methods :-
+String.IsNullOrEmpty(),String.IsNullOrWhiteSpace(),String.Join();
+5.convert :-
+Convert.ToByte(str),obj.ToString()
+6.StringBuilder (mutable string)
+-> not for searching , for string Manipulation Methods
+7.var builder = new StringBulider();
+8.StringBuilder Instance Methods[return StringBuilder object] :-
+obj.Append(),obj.AppendLine(),obj.Replace(),obj.Remove(),obj.Insert();
+9.Procedural Programming -> A programming paradigm based on procedure calls.
+10.Functions,Methods,Rutin,SubRutin are same in Procedural Programming.
+11.Object-oriented Programming -> A Programming paradigm based on objects.
