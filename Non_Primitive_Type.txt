@@ -1,0 +1,67 @@
+1.Class:-
+->public class Person
+->Fields or variables, Methods
+->Access Modifiers
+2.Object:-
+->Instance of class.
+->new operator use for allocate memory to an object.
+3.Static modifier
+->All methods defined in Console class is Static.
+4.Structure:-
+->To create light wet object.
+5.Diffrerence between Class and Structure.
+6.We use class 99% in program.
+7.Array->Array have fixed size, collection of same type variables.
+8.Array is a Class.
+->int[] numbers = new int[3] {1,2,3};
+->var numbers = new int[3] {1,2,3};
+->string[],bool[],int[];
+9.Default value in int[] array is 0.
+10.String is a sequence of characters surrounded by doubles quotes.
+->var firstName = "Soumyajit";
+->String firstName = "Soumyajit";
+->string firstName = "Soumyajit";
+11.String Members
+->static methods[Format(),Join()]
+12.string are immutable.
+->\n,\t,\\,\',\"
+13.char
+14.It marks the string as a verbatim string literal. 
+->In C#, a verbatim string is created using a special symbol @.
+->@ is known as a verbatim identifier.
+->If a string contains @ as a prefix followed by double quotes,
+->then compiler identifies that string as a verbatim string and compile that string.
+->string S2 = @"\\welcome \to GeeksforGeeks \ portal \"
+15.Enum:-
+->public enum ShippingMethod
+->enum is a new type.
+->Internally Enum is integer.
+->By default Console.WriteLine() method calls ToString() method.
+16.arrays(System.Array),strings(System.String)
+17.All Primitive types are internally defined structure in Dot Net.
+18.Value Types:-
+->Structures
+->Allocated on stack
+->Memory allocation done automatically
+->immediately removed when out of scope.
+19.Reference Types:-
+->Classes
+->You need to allocate memory
+->Memory allocated on heap
+->Garbage collected by CLR
+20.More Details:-
+->int a = 10;
+-> Here a is identifier of location in stack where value 10 is stored.
+->var array1 = new int[3] {1,2,3};
+->var array2 = array1;
+->array2[0] = 0;
+->Array is Reference Type;
+->array1, array2 are variables contains the address of {1,2,3} in stack.
+->{1,2,3} is stored in Heap Memory.
+->array1 and array2 refers or holds the address of {1,2,3}.
+21.Difference between Stack and Heap.
+22.Scope of variables.
+23.
+
+
+

@@ -1,0 +1,20 @@
+1.Conditional Statement:-
+->if/else,nested if/else statement,avoid multiple nested if/else statement.
+->switch/case,break,default block.
+->conditional operator: a?b:c [Short way to write if/else statement]
+2.Iteration Statements:-
+->for looops(counter,condition,increment or decrement)
+->String , Array , List enumereble object : we use foreach loop to iterate over them.
+->foreach(var number in numbers)
+->While(i<10)
+   {
+    ------
+    i++;
+   }
+->do while loop [execute loop atleast one time even the condition is false.
+->Break: jumps out of the loop.
+->Continue: jumps to the next iteration.
+->Use for loop wehen we know how many time loop will execute.
+->Use while loop when we do not know how many time loop will iterate.
+  we gets out from while loop after a certain condition meets.
+3.Random Class
