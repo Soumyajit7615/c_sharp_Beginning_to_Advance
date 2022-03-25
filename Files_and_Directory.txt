@@ -1,0 +1,22 @@
+1.System.IO
+2.File class, FileInfo class, Path class
+->FileInfo provides instance methods
+->File provides static methods
+3.Directory, DirectoryInfo
+->DirectoryInfo provides instance methods
+->Directory provides static methods
+4.File Methods:-
+->File.Copy(),File.Delete(),File.Exists(),File.ReadAllText();
+5.FileInfo Methods:-
+->var fileInfo = new FileInfo();
+->obj.CopyTo(".."),obj.Delete(),fileInfo.Exists;
+6.Directory Methods:-
+->Directory.CreateDirectory(),Directory.GetFiles(),
+->Directory.GetDirectories(),Direcory.Exists()
+7.DirectoryInfo Methods:-
+->var directoryInfo = new DirectoryInfo("..");
+->directoryInfo.GetFiles(),directoryInfo.GetDirectories();
+8.Path Methods:-
+->var path = @"..."
+->path.IndexOf(),path.Substring(),
+->Path.GetExtension(path_obj),Path.GetFileName(path_obj),Path.GetDirectoryName(path_obj);
